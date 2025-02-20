@@ -7,7 +7,7 @@ Here's a sample of MNIST dataset
 
 A simple and interactive web app for handwritten digit recognition using a Convolutional Neural Network (CNN). Built with **TensorFlow, Streamlit**, and **Python**, this app allows users to draw a digit and get real-time predictions.  
 
-🔗 **Live Demo:** [(https://handwritten-digit-classifier.streamlit.app/)](#)  
+🔗 **Live Demo:** [(https://handwritten-digit-classifier.streamlit.app/)]
 
 ---
 
